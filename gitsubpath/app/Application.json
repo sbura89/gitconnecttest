@@ -1,0 +1,11 @@
+{
+  "accessRoles": [],
+  "applicationId": "2987bc6a-1147-41ef-992f-e3de66bd354b",
+  "applicationName": "testapp2git",
+  "applicationState": "DRAFT",
+  "defaultBranch": "main",
+  "gitSubpath": "gitsubpath",
+  "gitUrl": "https://github.com/sbura89/gitconnecttest",
+  "icon": "LogoIconOnlyAdvancedQuotaPlanningComponent",
+  "sections": []
+}
